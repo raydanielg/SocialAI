@@ -1,0 +1,54 @@
+.tiptap_toolbar__button_one {
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+    background-color: #e7e7e7;
+    color: #1b1a1a;
+    transition: 0.1s ease;
+    transition-property: background-color, color;
+}
+
+.tiptap_toolbar__button_one:hover {
+    background-color: #5a5a5a;
+    color: #f0f0f0;
+}
+
+.tiptap_toolbar__button_one.fn-active {
+    background-color: #222222;
+    color: #d9d9d9;
+}
+
+.tiptap_toolbar__button_one:disabled {
+    color: #9f9f9f;
+    cursor: default;
+}
+
+.dark .tiptap_toolbar__button_one {
+    color: #353535;
+}
+
+.dark .tiptap_toolbar__button_one:hover {
+    background-color: #4d4d4d;
+    color: #e4e4e4;
+}
+
+.dark .tiptap_toolbar__button_one.fn-active {
+    background-color: #2b2a2a;
+    color: #e4e4e4;
+}
+
+.dark .tiptap_toolbar__button_one:disabled {
+    background-color: #9f9f9f;
+}
+
+.tiptap img {
+    max-width: 100%;
+    height: auto;
+}
+
+.tiptap>*+* {
+    margin-top: 0.75em;
+}
+
+.tiptap .ProseMirror-selectednode {
+    outline: 3px solid rgb(118, 63, 186);
+}

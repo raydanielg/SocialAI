@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 157.4 39.3" style="enable-background:new 0 0 157.4 39.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E7663F;}
+	.st1{fill:#F67D50;}
+	.st2{fill:#F5F5F5;}
+	.st3{fill:none;}
+	.st4{font-family:'Montserrat-Bold';}
+	.st5{font-size:15.9051px;}
+	.st6{fill:#C7CBD4;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M157.4,34.3c0,2.8-2.3,5-5,5H5c-2.8,0-5-2.3-5-5V5c0-2.8,2.3-5,5-5h147.4c2.8,0,5,2.3,5,5V34.3z"/>
+	</g>
+	<g>
+		<path class="st1" d="M157.4,30.4c0,2.8-2.3,5-5,5H5c-2.8,0-5-2.3-5-5V5c0-2.8,2.3-5,5-5h147.4c2.8,0,5,2.3,5,5V30.4z"/>
+	</g>
+</g>
+<circle class="st2" cx="136.1" cy="17.4" r="14.5"/>
+<rect y="13.1" class="st3" width="121.7" height="9.2"/>
+<text transform="matrix(1 0 0 1 13.0068 23.4199)" class="st2 st4 st5">Button text</text>
+<path class="st6" d="M143.4,22.9l-3.9-3.9c-0.3-0.3-0.7-0.4-1-0.4c1.4-2.2,1.2-5.1-0.7-7c-2.2-2.2-5.7-2.2-7.8,0
+	c-2.2,2.2-2.2,5.7,0,7.8c1.9,1.9,4.8,2.1,7,0.7c0,0.4,0.1,0.7,0.4,1l3.9,3.9c0.6,0.6,1.5,0.6,2.1,0C144,24.4,144,23.4,143.4,22.9
+	L143.4,22.9z M136.6,18.2c-1.5,1.5-3.9,1.5-5.4,0s-1.5-3.9,0-5.4s3.9-1.5,5.4,0S138.1,16.7,136.6,18.2L136.6,18.2z"/>
+</svg>

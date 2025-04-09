@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120.3 50.3" style="enable-background:new 0 0 120.3 50.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#72564E;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:9.596px;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:url(#SVGID_2_);}
+</style>
+<path class="st0" d="M106.8,9.8H41.2C37.2,3.9,30.3,0,22.6,0C10.1,0,0,10.1,0,22.6c0,6,2.4,11.5,6.2,15.6v12.1l8.2-6.6
+	c2.5,1,5.3,1.5,8.2,1.5c6.1,0,11.7-2.5,15.8-6.4h68.4c7.4,0,13.5-6.1,13.5-13.5v-1.9C120.3,15.9,114.2,9.8,106.8,9.8z"/>
+<text transform="matrix(1 0 0 1 50.4003 27.1068)" class="st1 st2 st3">CONTACT US</text>
+<radialGradient id="SVGID_1_" cx="318.4" cy="-1200.7" r="16.9435" gradientTransform="matrix(1 0 0 -1 -296 -1178)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#C2C2C2"/>
+</radialGradient>
+<circle class="st4" cx="22.4" cy="22.7" r="16.9"/>
+<radialGradient id="SVGID_2_" cx="324.2578" cy="-1186.7964" r="54.0574" gradientTransform="matrix(1 0 0 -1 -296 -1178)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#C2C2C2"/>
+</radialGradient>
+<circle class="st5" cx="22.4" cy="22.7" r="13.8"/>
+<g>
+	<g>
+		<polygon class="st0" points="14.9,17.6 29.9,17.6 22.4,22.7 		"/>
+		<path class="st0" d="M14.9,19.2c0,0,0,3.7,0,7.4h15v-7.4l-7.5,4.6L14.9,19.2z"/>
+	</g>
+</g>
+</svg>

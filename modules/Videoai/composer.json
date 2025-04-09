@@ -1,0 +1,28 @@
+{
+  "name": "nwidart/videoai",
+  "description": "",
+  "authors": [
+    {
+      "name": "thedevstation",
+      "email": "help.thedevstation@gmail.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [],
+      "aliases": {}
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Modules\\Videoai\\App\\": "App/",
+      "Modules\\Videoai\\Database\\Factories\\": "database/factories/",
+      "Modules\\Videoai\\Database\\Seeders\\": "database/seeders/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Modules\\VideoAi\\Tests\\": "tests/"
+    }
+  }
+}

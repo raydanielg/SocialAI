@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "code": "USD",
+        "name": "United States Dollar"
+    },
+    {
+        "id": 2,
+        "code": "EUR",
+        "name": "Euro"
+    },
+    {
+        "id": 3,
+        "code": "JPY",
+        "name": "Japanese Yen"
+    },
+    {
+        "id": 4,
+        "code": "GBP",
+        "name": "British Pound Sterling"
+    },
+    {
+        "id": 5,
+        "code": "AUD",
+        "name": "Australian Dollar"
+    },
+    {
+        "id": 6,
+        "code": "CAD",
+        "name": "Canadian Dollar"
+    },
+    {
+        "id": 7,
+        "code": "CHF",
+        "name": "Swiss Franc"
+    },
+    {
+        "id": 8,
+        "code": "CNY",
+        "name": "Chinese Yuan"
+    },
+    {
+        "id": 9,
+        "code": "INR",
+        "name": "Indian Rupee"
+    },
+    {
+        "id": 10,
+        "code": "SGD",
+        "name": "Singapore Dollar"
+    },
+    {
+        "id": 11,
+        "code": "NZD",
+        "name": "New Zealand Dollar"
+    },
+    {
+        "id": 12,
+        "code": "BRL",
+        "name": "Brazilian Real"
+    },
+    {
+        "id": 13,
+        "code": "ZAR",
+        "name": "South African Rand"
+    },
+    {
+        "id": 14,
+        "code": "RUB",
+        "name": "Russian Ruble"
+    },
+    {
+        "id": 15,
+        "code": "SEK",
+        "name": "Swedish Krona"
+    },
+    {
+        "id": 16,
+        "code": "BDT",
+        "name": "Bangladeshi Taka"
+    },
+    {
+        "id": 17,
+        "code": "INR",
+        "name": "Indian Rupee"
+    },
+    {
+        "id": 18,
+        "code": "PKR",
+        "name": "Pakistani Rupee"
+    }
+]

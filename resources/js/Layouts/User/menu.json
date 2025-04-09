@@ -1,0 +1,96 @@
+[
+  {
+    "id": "m34ax51x",
+    "heading": "Dashboard",
+    "order": 1,
+    "deletable": false,
+    "module": "user",
+    "links": [
+      {
+        "icon": "fe:home",
+        "text": "Dashboard",
+        "href": "user.dashboard",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "bx:grid",
+        "text": "Content",
+        "href": "user.brand-posts.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "fe:bar-chart",
+        "text": "Analytics",
+        "href": "user.analytics.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "bx:image",
+        "text": "Assets",
+        "href": "user.assets.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "bx:edit",
+        "text": "Brands",
+        "href": "user.brand.index",
+        "exact": true,
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "bx:grid-alt",
+        "text": "Platforms",
+        "href": "user.platforms.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "fe:credit-card",
+        "text": "Subscription",
+        "href": "user.subscription.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "bx:folder-minus",
+        "text": "Credits",
+        "href": "user.credits.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "mdi:box",
+        "text": "AI Tools",
+        "href": "user.ai-tools.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "fe:codepen",
+        "text": "AI Generated History",
+        "href": "user.ai-generated-history.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "bx:phone-call",
+        "text": "Supports",
+        "href": "user.supports.index",
+        "target": "_self",
+        "deletable": false
+      },
+      {
+        "icon": "bx:cog",
+        "text": "Account Settings",
+        "href": "user.account-settings",
+        "target": "_self",
+        "deletable": false
+      }
+    ]
+  }
+]

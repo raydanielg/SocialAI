@@ -1,0 +1,60 @@
+{
+  "name": "Videoai",
+  "alias": "videoai",
+  "description": "",
+  "keywords": [],
+  "priority": 0,
+  "version": "1.0",
+  "module_type": "features",
+  "providers": ["Modules\\Videoai\\App\\Providers\\VideoAiServiceProvider"],
+  "files": [],
+  "menu": [
+    {
+      "menu_type": "admin",
+      "id": "m3n35235",
+      "heading": "Video Ai",
+      "order": 3,
+      "deletable": false,
+      "module": "videoai",
+      "links": [
+        {
+          "id": "m3n4o52",
+          "icon": "bx:cog",
+          "text": "Configuration",
+          "component": "Config/Index",
+          "href": "admin.videoai.config.index",
+          "target": "_self",
+          "deletable": false
+        },
+        {
+          "id": "m6mxo5b2",
+          "icon": "bx:library",
+          "text": "Prompt Presets",
+          "component": "PromptPreset/Index",
+          "href": "admin.videoai.prompt-preset.index",
+          "target": "_self",
+          "deletable": false
+        }
+      ]
+    },
+    {
+      "menu_type": "user",
+      "id": "m3n35xw85",
+      "heading": "Video Ai",
+      "order": 3,
+      "deletable": false,
+      "module": "videoai",
+      "links": [
+        {
+          "id": "m6mx4o5b2",
+          "icon": "bx:library",
+          "text": "Generate Video",
+          "component": "VideoAi/User/Create",
+          "href": "user.videoai.generate.create",
+          "target": "_self",
+          "deletable": false
+        }
+      ]
+    }
+  ]
+}

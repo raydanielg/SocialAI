@@ -1,0 +1,1 @@
+import{o,c as e,b as l,n as a}from"./app-13978987.js";const t={class:"hollow-dots-spinner"},r={__name:"HollowDotsSpinner",props:{dotClass:{default:"dot"}},setup(s){return(n,c)=>(o(),e("div",t,[l("div",{class:a(s.dotClass)},null,2),l("div",{class:a(s.dotClass)},null,2),l("div",{class:a(s.dotClass)},null,2)]))}};export{r as _};

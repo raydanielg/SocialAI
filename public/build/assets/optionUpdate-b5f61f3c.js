@@ -1,0 +1,1 @@
+import{a1 as u,m as i,O as r}from"./app-13978987.js";const c=u("optionUpdate",()=>{const e=i(!1);function s(a,t,n=[]){e.value=!0,n==null||n.forEach(o=>{t[o]instanceof File||(t[o]=null)}),r.post(route("admin.page-settings.update",a),t,{onFinish:()=>e.value=!1})}return{processing:e,submit:s}});export{c as u};

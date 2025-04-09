@@ -1,0 +1,1 @@
+import{d as t,I as a,o as r,c as n,t as c,n as l}from"./app-f0fa1d4d.js";const g={__name:"InputFieldError",props:{message:String,classes:String},setup(e){return(o,i)=>{var s;return t((r(),n("span",{class:l(["mt-1 block text-red-500 text-danger",e.classes])},c(e.message),3)),[[a,(s=e.message)==null?void 0:s.length]])}}};export{g as _};
